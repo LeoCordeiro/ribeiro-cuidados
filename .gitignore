@@ -1,0 +1,6 @@
+PENDENCIAS.md
+_fora-do-site/
+*.zip
+/*.jpg
+.DS_Store
+Thumbs.db
